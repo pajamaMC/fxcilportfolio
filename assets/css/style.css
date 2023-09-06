@@ -25,17 +25,17 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right,
-    hsl(235, 78%, 66%) 3%,
-    hsl(204, 65%, 67%) 97%
+    hsl(268, 59%, 37%) 3%,
+    hsl(261, 44%, 51%) 97%
   );
   --bg-gradient-jet: linear-gradient(
     to bottom right,
-    hsl(211, 58%, 59%) 0%,
+    hsl(261, 44%, 51%) 0%,
     hsla(240, 2%, 11%, 0) 100%
-  ), hsl(203, 78%, 27%);
+  ), hsl(268, 59%, 37%);
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right,
-    hsl(234, 60%, 49%) 0%,
+    hsl(0, 0%, 0%) 0%,
     hsla(36, 100%, 69%, 0) 50%
   );
   --bg-gradient-yellow-2: linear-gradient(
@@ -50,21 +50,21 @@
   );
   --text-gradient-yellow: linear-gradient(
     to right,
-    hsl(228, 62%, 50%),
-    hsl(211, 56%, 34%)
+    hsl(277, 73%, 69%),
+    hsl(301, 61%, 42%)
   );
 
   /* solid */
 
-  --jet: hsl(211, 58%, 59%);
-  --onyx: hsl(211, 58%, 59%);
-  --eerie-black-1: hsl(211, 73%, 37%);
-  --eerie-black-2: hsl(211, 58%, 59%);
-  --smoky-black: hsl(211, 44%, 32%);
+  --jet: hsl(289, 59%, 60%);
+  --onyx: hsl(262, 63%, 53%);
+  --eerie-black-1: hsl(0, 0%, 10%);
+  --eerie-black-2: hsl(268, 59%, 37%);
+  --smoky-black: hsl(0, 0%, 10%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(203, 60%, 50%);
-  --vegas-gold: hsl(206, 73%, 28%);
+  --orange-yellow-crayola: hsl(203, 30%, 61%);
+  --vegas-gold: hsl(262, 47%, 54%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
